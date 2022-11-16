@@ -1,2 +1,0 @@
-# Loginpage
-user registration
